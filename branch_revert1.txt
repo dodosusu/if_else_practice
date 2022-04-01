@@ -4,3 +4,11 @@ if(a+b>10)
 {
 Console.WriteLine("The ansewr is greater than 10");
 }
+else if(a+b>8)
+{
+Console.WriteLine("The and ansewr is between 8 and 10");
+}
+else
+}
+Console.WriteLine("The ansewr is not greater than 10");
+}
